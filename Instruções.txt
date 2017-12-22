@@ -1,0 +1,1 @@
+Abrir o node.js NPM rodar o codigo json-server db.json depois ng serve -o
